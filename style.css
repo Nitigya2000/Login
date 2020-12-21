@@ -1,0 +1,112 @@
+.navbar{
+  background-color: #fff;
+}
+.card{
+  border-radius: 100px;
+  margin-top: 100px;
+  margin-left: 500px;
+  margin-right: 500px;
+  margin-bottom: 100px;
+}
+.card-Header{
+  color: #65d6ce;
+  text-align: center;
+  margin-top: 10px;
+  font-family: 'Ubuntu', sans-serif;
+}
+input[type=text] {
+  border: none;
+  border-bottom: 2px solid #65d6ce;
+}
+input[type=email] {
+  border: none;
+  border-bottom: 2px solid #65d6ce;
+}
+input[type=password] {
+  border: none;
+  border-bottom: 2px solid #65d6ce;
+}
+.Login-form{
+  text-align: center;
+}
+.read{
+  text-align: center;
+}
+.button1{
+  background-color: #86aba1;
+  border: none;
+  color: white;
+  padding: 5px 60px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.button2{
+  background-color: #5eaaa8;
+  border: none;
+  color: white;
+  padding: 5px 60px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.button3{
+  background-color: #70af85;
+  border: none;
+  color: white;
+  padding: 5px 68px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.main-link{
+  color: #db6400;
+  text-decoration: none;
+}
+.main-link:hover{
+  color: #db6400;
+}
+.Logo{
+  color: #db6400;
+  font-family: 'Ubuntu', sans-serif;
+}
+.button1:hover{
+  background-color: #86aba1;
+  border: none;
+  color: white;
+  padding: 5px 60px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.button2:hover{
+  background-color: #a3d2ca;
+  border: none;
+  color: white;
+  padding: 5px 60px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.button3:hover{
+  background-color: #c6ebc9;
+  border: none;
+  color: white;
+  padding: 5px 68px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.end-phrase{
+  text-align: center;
+}
+.Logo:hover{
+  color: #db6400;
+  font-family: 'Ubuntu', sans-serif;
+}
